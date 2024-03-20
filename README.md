@@ -1,4 +1,4 @@
-# Terrain Classification for the Spot Quadrupedal Mobile Robot Using Only Proprioceptive Sensing
+# Terrain Classifier files
 
 ## Terrain Classification for the Spot Quadrupedal Mobile Robot Using Only Proprioceptive Sensing
 
