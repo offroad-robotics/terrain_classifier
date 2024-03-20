@@ -2,7 +2,7 @@
 
 ## Terrain Classification for the Spot Quadrupedal Mobile Robot Using Only Proprioceptive Sensing
 
-Abstract— Quadrupedal mobile robots can traverse a wider range of terrain types than their wheeled counterparts but do
+Abstract — Quadrupedal mobile robots can traverse a wider range of terrain types than their wheeled counterparts but do
 not perform the same on all terrain types. These robots are prone to undesirable behaviours like sinking and slipping on
 challenging terrains. To combat this issue, we propose a terrain classifier that provides information on terrain type that can
 be used in robotic systems to create a traversability map to plan safer paths for the robot to navigate. The work presented
