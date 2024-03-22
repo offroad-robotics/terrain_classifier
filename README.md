@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="http://www.youtube.com/watch?v=VEtKG984fVE">
-        <img src="http://img.youtube.com/vi/VEtKG984fVE/0.jpg" alt="Terrain Classification Video">
+        <img src="https://github.com/offroad-robotics/terrain_classifier/blob/main/doc-files/thumbnail.jpg" alt="Terrain Classification Video">
     </a>
 </p>
 
