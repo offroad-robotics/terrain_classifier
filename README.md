@@ -21,4 +21,7 @@
   [![Terrain Classification Video](http://img.youtube.com/vi/VEtKG984fVE/0.jpg)](http://www.youtube.com/watch?v=VEtKG984fVE)
 - [Paper link](TBA)
 
+## Citation
+
 ## Contributors
+
