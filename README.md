@@ -5,7 +5,7 @@
 ## Paper Details
 - **Title:** Terrain Classification for the Spot Quadrupedal Mobile Robot Using Only Proprioceptive Sensing
 - **Authors:** Sophie Villemure, Jefferson Silveira, Joshua A. Marshal.
-- **Conference/Journal:** Submitted to IEEE CCECE 2024 (under review)
+- **Conference:** Submitted to IEEE CCECE 2024 (under review)
 - **Year:** 2024
 
 ## Citation
