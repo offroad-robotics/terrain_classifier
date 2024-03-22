@@ -14,11 +14,6 @@ Quadrupedal mobile robots can traverse a wider range of terrain types than their
 
 ## Additional Material
 - [Video Showcasing live terrain classification](http://www.youtube.com/watch?v=VEtKG984fVE)
-  [![Terrain Classification Video](http://img.youtube.com/vi/VEtKG984fVE/0.jpg)](http://www.youtube.com/watch?v=VEtKG984fVE)
-- [Paper link](TBA)
-
-## Additional Material
-- [Video Showcasing live terrain classification](http://www.youtube.com/watch?v=VEtKG984fVE)
   
   [![Terrain Classification Video](http://img.youtube.com/vi/VEtKG984fVE/0.jpg)](http://www.youtube.com/watch?v=VEtKG984fVE)
 - [Paper link](TBA)
