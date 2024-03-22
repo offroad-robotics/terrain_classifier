@@ -13,7 +13,7 @@ If you reference our work, please consider citing the following:
 ```bibtex
 @inproceedings{liu2022bevfusion,
   title={Terrain Classification for the Spot Quadrupedal Mobile Robot Using Only Proprioceptive Sensing},
-  author={Liu, Zhijian and Tang, Haotian and Amini, Alexander and Yang, Xingyu and Mao, Huizi and Rus, Daniela and Han, Song},
+  author={Villemure, Sophie and Silveira, Jefferson and  Marshall, Joshua A},
   booktitle={IEEE Canadian Conference on Electrical and Computer Engineering (CCECE)},
   year={2024}
 }
