@@ -6,38 +6,13 @@
     </a>
 </p>
 
-<p align="center">
-  <a href="http://www.youtube.com/watch?v=VEtKG984fVE" class="video-link">
-    <img src="http://img.youtube.com/vi/VEtKG984fVE/0.jpg" alt="Terrain Classification Video" class="thumbnail">
-    <div class="play-button"></div>
-  </a>
-</p>
-
-<style>
-  .video-link {
-    position: relative;
-    display: inline-block;
-  }
-
-  .thumbnail {
-    display: block;
-    width: 100%;
-    height: auto;
-    border: none;
-  }
-
-  .play-button {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 64px;
-    height: 64px;
-    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="rgba(255, 255, 255, 0.8)"><polygon points="25.571,20.999 25.571,42 42.429,31.5" fill="#ffffff"/><path d="M32,8C17.6,8,6,19.6,6,34s11.6,26,26,26s26-11.6,26-26S46.4,8,32,8z M26,42V22l14,10L26,42z"/></svg>');
-    background-size: cover;
-    cursor: pointer;
-  }
-</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<div class="wrapper">
+    <video class="video">
+        <source src="http://e14aaeb709f7cde1ae68-a1d0a134a31b545b257b15f8a8ba5726.r70.cf3.rackcdn.com/projects/31432/1427815464209-bf74131a7528d0ea5ce8c0710f530bb5/1280x720.mp4" type="video/mp4" />
+    </video>
+  <div class="playpause"></div>
+</div>
 
 
 ## TODO
