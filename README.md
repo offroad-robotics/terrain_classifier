@@ -6,6 +6,39 @@
     </a>
 </p>
 
+<p align="center">
+    <div class="video-container">
+        <a href="http://www.youtube.com/watch?v=VEtKG984fVE" class="play-button">
+            <img src="http://img.youtube.com/vi/VEtKG984fVE/0.jpg" alt="Terrain Classification Video">
+        </a>
+    </div>
+</p>
+
+<style>
+    .video-container {
+        position: relative;
+        display: inline-block;
+    }
+
+    .play-button {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 80px;
+        height: 80px;
+        background: url('https://img.icons8.com/material-outlined/48/000000/play--v1.png') no-repeat;
+        background-size: cover;
+        border: none;
+        outline: none;
+        cursor: pointer;
+    }
+
+    .play-button:hover {
+        opacity: 0.8;
+    }
+</style>
+
 
 
 ## TODO
