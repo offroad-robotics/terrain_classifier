@@ -5,7 +5,7 @@
 ## Paper Details
 - **Title:** Terrain Classification for the Spot Quadrupedal Mobile Robot Using Only Proprioceptive Sensing
 - **Authors:** [Author1](https://author1.github.io), [Author2](https://author2.github.io), et al.
-- **Conference/Journal:** Submitted to IEEE CCECE 2024
+- **Conference/Journal:** Submitted to IEEE CCECE 2024 (under review)
 - **Year:** 2024
 - If you find this work helpful, please cite
 
