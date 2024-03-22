@@ -6,13 +6,6 @@
     </a>
 </p>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<div class="wrapper">
-    <video class="video">
-        <source src="http://e14aaeb709f7cde1ae68-a1d0a134a31b545b257b15f8a8ba5726.r70.cf3.rackcdn.com/projects/31432/1427815464209-bf74131a7528d0ea5ce8c0710f530bb5/1280x720.mp4" type="video/mp4" />
-    </video>
-  <div class="playpause"></div>
-</div>
 
 
 ## TODO
