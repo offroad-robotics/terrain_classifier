@@ -3,9 +3,7 @@
 ### Terrain Classification for the Spot Quadrupedal Mobile Robot Using Only Proprioceptive Sensing
 
 ## Video showcasing the terrain classification using the Boston Dynamics Spot robot
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/VEtKG984fVE/0.jpg)](https://www.youtube.com/watch?v=VEtKG984fVE)
-
-[![Video Title](http://img.youtube.com/vi/VEtKG984fVE/0.jpg)](http://www.youtube.com/watch?v=VEtKG984fVE)
+[![Terrain Classification Video](http://img.youtube.com/vi/VEtKG984fVE/0.jpg)](http://www.youtube.com/watch?v=VEtKG984fVE)
 
 
 
