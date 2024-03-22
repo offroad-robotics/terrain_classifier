@@ -2,6 +2,14 @@
 ## Additional Material
 - [Video Showcase](http://www.youtube.com/watch?v=VEtKG984fVE)
 - [Paper link](TBA)
+
+
+## Paper Details
+- **Title:** Terrain Classification for the Spot Quadrupedal Mobile Robot Using Only Proprioceptive Sensing
+- **Authors:** [Author1](https://author1.github.io), [Author2](https://author2.github.io), et al.
+- **Conference/Journal:** Conference Name/ Journal Name
+- **Year:** 2024
+
 ## Paper: 
 ### Terrain Classification for the Spot Quadrupedal Mobile Robot Using Only Proprioceptive Sensing
 
