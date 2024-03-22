@@ -1,6 +1,9 @@
 # Terrain Classifier for the Spot Quadrupedal Mobile Robot
+
+[![Terrain Classification Video](http://img.youtube.com/vi/VEtKG984fVE/0.jpg)](http://www.youtube.com/watch?v=VEtKG984fVE)
+
 <div style="text-align: center;">
-  [![Terrain Classification Video](http://img.youtube.com/vi/VEtKG984fVE/0.jpg)](http://www.youtube.com/watch?v=VEtKG984fVE)
+    [![Terrain Classification Video](http://img.youtube.com/vi/VEtKG984fVE/0.jpg)](http://www.youtube.com/watch?v=VEtKG984fVE)
 </div>
 
 ## TODO
