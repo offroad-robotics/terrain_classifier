@@ -2,9 +2,11 @@
 
 [![Terrain Classification Video](http://img.youtube.com/vi/VEtKG984fVE/0.jpg)](http://www.youtube.com/watch?v=VEtKG984fVE)
 
-<div style="text-align: center;">
-    [![Terrain Classification Video](http://img.youtube.com/vi/VEtKG984fVE/0.jpg)](http://www.youtube.com/watch?v=VEtKG984fVE)
-</div>
+<p align="center">
+    <a href="http://www.youtube.com/watch?v=VEtKG984fVE">
+        <img src="http://img.youtube.com/vi/VEtKG984fVE/0.jpg" alt="Terrain Classification Video">
+    </a>
+</p>
 
 ## TODO
 - [ ] Add terrain classification code
