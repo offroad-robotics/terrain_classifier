@@ -1,5 +1,9 @@
 # Terrain Classifier for the Spot Quadrupedal Mobile Robot
 
+## TODO
+- [ ] Add terrain classification code
+- [ ] Add bags?
+- [ ] Organize repository
 
 
 ## Paper Details
