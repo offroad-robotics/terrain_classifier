@@ -7,7 +7,7 @@
 - **Authors:** Sophie Villemure, Jefferson Silveira, Joshua A. Marshal.
 - **Conference/Journal:** Submitted to IEEE CCECE 2024 (under review)
 - **Year:** 2024
-- If you find this work helpful, please cite
+
 ## Citation
     TBA
  
