@@ -1,5 +1,7 @@
 # Terrain Classifier for the Spot Quadrupedal Mobile Robot
 
+  [![Terrain Classification Video](http://img.youtube.com/vi/VEtKG984fVE/0.jpg)](http://www.youtube.com/watch?v=VEtKG984fVE)
+
 ## TODO
 - [ ] Add terrain classification code
 - [ ] Add bags?
@@ -21,8 +23,6 @@ Quadrupedal mobile robots can traverse a wider range of terrain types than their
 ## Additional Material
 - [Paper link: TBA](TBA)
 - [Video link](http://www.youtube.com/watch?v=VEtKG984fVE)
-  
-  [![Terrain Classification Video](http://img.youtube.com/vi/VEtKG984fVE/0.jpg)](http://www.youtube.com/watch?v=VEtKG984fVE)
 
 
 
