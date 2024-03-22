@@ -6,6 +6,18 @@
     </a>
 </p>
 
+<p align="center">
+    <a href="http://www.youtube.com/watch?v=VEtKG984fVE">
+        <div style="position: relative; display: inline-block;">
+            <img src="http://img.youtube.com/vi/VEtKG984fVE/0.jpg" alt="Terrain Classification Video">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 64px; height: 64px; fill: rgba(255, 255, 255, 0.8);">
+                <path d="M28,20l18,12L28,44V20z M32,8C17.6,8,6,19.6,6,34s11.6,26,26,26s26-11.6,26-26S46.4,8,32,8z M26,42V22l14,10L26,42z"/>
+            </svg>
+        </div>
+    </a>
+</p>
+
+
 ## TODO
 - [ ] Add terrain classification code
 - [ ] Add bags?
