@@ -1,6 +1,8 @@
 # Terrain Classifier for the Spot Quadrupedal Mobile Robot
-
-## Paper title: 
+## Additional Material
+- [Video Showcase](http://www.youtube.com/watch?v=VEtKG984fVE)
+- [Paper link](TBA)
+## Paper: 
 ### Terrain Classification for the Spot Quadrupedal Mobile Robot Using Only Proprioceptive Sensing
 
 ## Video showcasing the terrain classification using the Boston Dynamics Spot robot
