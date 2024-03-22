@@ -8,7 +8,16 @@
 - **Conference/Journal:** Submitted to IEEE CCECE 2024 (under review)
 - **Year:** 2024
 - If you find this work helpful, please cite
+## Citation
+If you reference our work, please consider citing the following:
 
+	@inproceedings{icra_2019_fastdepth,
+		author      = {{Wofk, Diana and Ma, Fangchang and Yang, Tien-Ju and Karaman, Sertac and Sze, Vivienne}},
+		title       = {{FastDepth: Fast Monocular Depth Estimation on Embedded Systems}},
+		booktitle   = {{IEEE International Conference on Robotics and Automation (ICRA)}},
+		year        = {{2019}}
+	}
+ 
 ### Abstract
 Quadrupedal mobile robots can traverse a wider range of terrain types than their wheeled counterparts but do not perform the same on all terrain types. These robots are prone to undesirable behaviours like sinking and slipping on challenging terrains. To combat this issue, we propose a terrain classifier that provides information on terrain type that can be used in robotic systems to create a traversability map to plan safer paths for the robot to navigate. The work presented here is a terrain classifier developed for a Boston Dynamics Spot robot. Spot provides over 100 measured proprioceptive signals describing the motions of the robot and its four legs (e.g., foot penetration, forces, joint angles, etc.). The developed terrain classifier combines dimensionality reduction techniques to extract relevant information from the signals and then applies a classification technique to differentiate terrain based on traversability. In representative field testing, the resulting terrain classifier was able to identify three different terrain types with an accuracy of approximately 97%.
 
