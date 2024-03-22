@@ -10,6 +10,14 @@
 - If you find this work helpful, please cite
 ## Citation
 If you reference our work, please consider citing the following:
+
+    @inproceedings{icra_2019_fastdepth,
+    	author      = {{Wofk, Diana and Ma, Fangchang and Yang, Tien-Ju and Karaman, Sertac and Sze, Vivienne}},
+    	title       = {{FastDepth: Fast Monocular Depth Estimation on Embedded Systems}},
+    	booktitle   = {{IEEE International Conference on Robotics and Automation (ICRA)}},
+    	year        = {{2019}}
+    }
+
 ```bibtex
 @inproceedings{liu2022bevfusion,
   title={BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation},
