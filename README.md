@@ -9,7 +9,7 @@
 
 ## TODO
 - [ ] Add terrain classification code
-- [ ] Add bags?
+- [ ] Add ros bags?
 - [ ] Organize repository
 
 
