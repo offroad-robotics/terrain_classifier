@@ -1,7 +1,7 @@
 # Terrain Classifier for the Spot Quadrupedal Mobile Robot
 
 
-<img src="https://github.com/offroad-robotics/terrain_classifier/blob/main/doc-files/terrain_classification.gif">
+<img src="https://github.com/offroad-robotics/terrain_classifier/blob/main/doc-files/terrain_classification_red.gif">
 
 
 <p align="center">
